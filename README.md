@@ -1,4 +1,10 @@
-### Hi there 👋
+### stilkin-pxl/stilkin-pxl
+
+Hi there! 👋
+This is the GitHub profile for my job at **PXL University College**
+
+More info about me: https://www.linkedin.com/in/servaastilkin/
+
 
 <!--
 **stilkin-pxl/stilkin-pxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
